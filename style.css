@@ -29,12 +29,13 @@ header a{
 }
 
 a.active{
-    background: #14ff72cb;
+    background: #a0d1ff;
     border-radius: 2px;
+    color:#000;
 }
 
 header a:hover{
-    background: #14ff72cb;
+    background: #a0d1ff;
     border-radius: 2px;
 }
 
