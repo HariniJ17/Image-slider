@@ -1,18 +1,60 @@
-Objective: The objective of the "To-Do List" project is to develop a functional web application that allows users to manage their tasks efficiently. The application should enable users to add, edit, and delete tasks, and mark tasks as completed. The primary goal is to enhance productivity and organization for the users.
+🎡 Image Slider Project
 
-Technologies Used:
 
-HTML (HyperText Markup Language):
-Purpose: Structuring the content of the web page.
-Usage: Creating the layout of the to-do list, including forms for adding new tasks and lists for displaying existing tasks.
+🎯 Objective
 
-CSS (Cascading Style Sheets):
-Purpose: Styling the web page to make it visually appealing.
-Usage: Designing the layout, colors, fonts, and overall appearance of the to-do list application. CSS helps ensure that the application is responsive and looks good on various devices.
 
-JavaScript:
-Purpose: Adding interactivity and dynamic features to the web application.
-Usage: Handling user actions such as adding new tasks, editing or deleting existing tasks, and marking tasks as completed. JavaScript is also used for storing and retrieving tasks from local storage, so the tasks persist even after the page is refreshed.
+The Image Slider project is a dynamic web application designed to showcase images interactively while allowing users to engage with the content through a Like Button feature. This project combines functionality and user interactivity to create a seamless and enjoyable experience.
 
-To see the output:
+
+💻 Features
+
+⏭ Next and Previous Controls: Navigate easily between images.
+
+
+❤ Like Button: Users can like individual images.
+
+
+⚡ Smooth Animations: Provides seamless transitions for better visual appeal.
+
+
+🛠 Responsive Design: Works perfectly on all screen sizes, from desktops to mobile devices.
+
+
+💡 Technologies Used
+
+1. HTML
+
+
+Structures the image slider layout, including the image container, navigation buttons, and like button.
+
+
+2. CSS
+
+
+Adds styling to the slider for a clean and polished appearance.
+
+
+Incorporates animations for smooth transitions and hover effects.
+
+
+3. JavaScript
+
+
+Handles slider functionality, such as:
+
+
+Navigating between images.
+
+
+Auto-sliding images after a defined interval.
+
+
+Managing the like button feature by updating and persisting like counts.
+
+
+🌐 Live Demo
+
+
+Explore the live demo of the Image Slider here: 
 https://harinij17.github.io/Image-slider/
